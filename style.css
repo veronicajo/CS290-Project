@@ -1,0 +1,23 @@
+.carousel-inner img {
+    display: block;
+    margin: auto;
+    width: 90%;
+    height: auto;
+    }
+.navbar-nav {
+    text-align: center;
+}
+.p-name {
+    font-style: italic;
+}
+.image-scroll-box {
+    text-align: center;
+    max-height: 500px;
+    overflow: auto;
+}
+/* !important used to override Bootstraps styling for this element */
+#visitorComments {
+    width: 300px !important;
+    height: 150px !important;
+    overflow: auto !important;
+}
